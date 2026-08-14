@@ -1,0 +1,5 @@
+name = "Manveer"
+age = 17
+
+print("MADDY:", name)
+print("17:", age)
